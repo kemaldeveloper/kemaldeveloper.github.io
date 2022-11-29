@@ -117,6 +117,9 @@
             max-width: 228px;
             top: 280px;
         }
+        @media screen and (max-width: 375px) {
+            top: 172px
+        }
     }
 
     &__claim {
